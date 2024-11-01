@@ -1,0 +1,2 @@
+# Face-Detection-Door-Control-Automating-Entry-with-Python-and-Arduino
+📄 Project Description Face Detection Door Control using Python and Arduino is an automated security system utilizing face recognition. A camera captures video and OpenCV detects faces. If detected, Python signals the Arduino to open the door via a servo motor; otherwise, an LED indicates restricted access. Ideal for secure spaces.
