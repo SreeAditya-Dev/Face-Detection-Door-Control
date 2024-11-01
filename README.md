@@ -1,7 +1,3 @@
-Here's a detailed and informative README file template for your project:
-
----
-
 # Face Detection Door Control: Automating Entry with Python and Arduino
 *A smart, contactless, and efficient door control system that uses face detection and automation technology.*
 
