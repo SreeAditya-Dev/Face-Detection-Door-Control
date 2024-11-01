@@ -59,11 +59,10 @@ This project replaces traditional access systems with an automated face detectio
 
 ## 📂 Project Structure
 ```
-/FaceDetectionDoorControl
-|-- /images           # Folder for images/screenshots
-|-- /arduino          # Folder for Arduino code
+/Face Detection Door Control
+|-- /.venv
 |-- face_detection.py # Python code for face detection
-|-- README.md         # Project documentation
+|-- buzzer_face_detected.ino        # arduino code 
 ```
 
 ---
